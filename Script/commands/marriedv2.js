@@ -5,7 +5,7 @@ module.exports.config = {
     credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
     description: "married",
     commandCategory: "img",
-    usages: "[@mention]",
+    usages: "[@一 ফু'ল প্রে'মি'কা ཐི༏ཋྀ࿐]",
     cooldowns: 5,
     dependencies: {
         "axios": "",
